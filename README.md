@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Myster-Abbey
-- 👀 I’m interested in Development and CyberSecurity 
-- 🌱 I’m currently learning Backend Development And Pentesting
+- 👀 I’m interested in Development 
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on any related projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
